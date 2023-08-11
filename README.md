@@ -13,7 +13,7 @@ The main goal of this project is to create a machine-learning model that can acc
 
 ## Dataset
 
-We've prepared a dataset for you containing a variety of images of muffins and Chihuahuas. You can find it here (https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification). The dataset is located in the `data` directory. You'll find two subdirectories: `muffins` and `chihuahuas`, each containing corresponding images of muffins and Chihuahuas.
+We've prepared a dataset for you containing a variety of images of muffins and Chihuahuas. You can find it here (https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification). The dataset is located in the `data/train` directory. You'll find two subdirectories: `muffins` and `chihuahuas`, each containing corresponding images of muffins and Chihuahuas.
 
 ## Remember
 
